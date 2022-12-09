@@ -1,6 +1,11 @@
 # piano
-
-A new Flutter project.
+.
+A new Flutter project
+This project is from gdsc pu which is google devloper  club in parul university where student meet and learn trending technology. 
+here student get free sessions for their improvment and acquire extra skills from club .
+In this we devlop flutter project .
+Flutter is a cross plateform inwhich we code for both ios and android .
+inthis we learn how to build piano app.
 
 ## Getting Started
 
